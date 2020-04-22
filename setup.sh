@@ -1,0 +1,1 @@
+cp cwctl /home/theia/.codewind/latest
